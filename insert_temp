@@ -606,78 +606,6 @@ select 'ExCom - Bonus Utilities 2025' , 'Comment Reward Reviewer' union all
 select 'ExCom - Bonus Utilities 2025' , 'Comment HR / Comp&Ben' union all
 select 'ExCom - Bonus Utilities 2025' , 'Complementary Information' union all
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 select 'HR Dep - Bonus Capped 2025' , 'Employee''s Name' union all
 select 'HR Dep - Bonus Capped 2025' , 'Reward Manager''s Name' union all
 select 'HR Dep - Bonus Capped 2025' , 'Operational Manager''s Name' union all
@@ -711,6 +639,78 @@ select 'Head of BE - Bonus Capped 2025' , 'Bonus Scheme' union all
 select 'Head of BE - Bonus Capped 2025' , 'Employee Currency' union all
 select 'Head of BE - Bonus Capped 2025' , 'Perimeter' union all
 select 'Head of BE - Bonus Capped 2025' , 'SPR Reason' union all
+select 'Head of BE - Bonus Capped 2025' , 'Previous Prorata Y-2' union all
+select 'Head of BE - Bonus Capped 2025' , 'Previous Prorata Y-1' union all
+select 'Head of BE - Bonus Capped 2025' , 'Present - Present' union all
+select 'Head of BE - Bonus Capped 2025' , 'Prorata Temporis Y' union all
+select 'Head of BE - Bonus Capped 2025' , 'MRT/N-MRT' union all
+select 'Head of BE - Bonus Capped 2025' , 'Comment Reward Manager' union all
+select 'Head of BE - Bonus Capped 2025' , 'Comment Reward Reviewer' union all
+select 'Head of BE - Bonus Capped 2025' , 'Comment HR / Comp&Ben' union all
+select 'Head of BE - Bonus Capped 2025' , 'Complementary Information' union all
+select 'Head of FR - Bonus Capped 2025' , 'Employee''s Name' union all
+select 'Head of FR - Bonus Capped 2025' , 'Reward Manager''s Name' union all
+select 'Head of FR - Bonus Capped 2025' , 'Operational Manager''s Name' union all
+select 'Head of FR - Bonus Capped 2025' , 'Start Date' union all
+select 'Head of FR - Bonus Capped 2025' , 'End Date' union all
+select 'Head of FR - Bonus Capped 2025' , 'ID' union all
+select 'Head of FR - Bonus Capped 2025' , 'Gender' union all
+select 'Head of FR - Bonus Capped 2025' , 'Contract' union all
+select 'Head of FR - Bonus Capped 2025' , 'Bonus Scheme' union all
+select 'Head of FR - Bonus Capped 2025' , 'Employee Currency' union all
+select 'Head of FR - Bonus Capped 2025' , 'Perimeter' union all
+select 'Head of FR - Bonus Capped 2025' , 'SPR Reason' union all
+select 'Head of FR - Bonus Capped 2025' , 'Previous Prorata Y-2' union all
+select 'Head of FR - Bonus Capped 2025' , 'Previous Prorata Y-1' union all
+select 'Head of FR - Bonus Capped 2025' , 'Present - Present' union all
+select 'Head of FR - Bonus Capped 2025' , 'Prorata Temporis Y' union all
+select 'Head of FR - Bonus Capped 2025' , 'MRT/N-MRT' union all
+select 'Head of FR - Bonus Capped 2025' , 'Comment Reward Manager' union all
+select 'Head of FR - Bonus Capped 2025' , 'Comment Reward Reviewer' union all
+select 'Head of FR - Bonus Capped 2025' , 'Comment HR / Comp&Ben' union all
+select 'Head of FR - Bonus Capped 2025' , 'Complementary Information' union all
+select 'RM - Bonus Capped 2025' , 'Employee''s Name' union all
+select 'RM - Bonus Capped 2025' , 'Reward Manager''s Name' union all
+select 'RM - Bonus Capped 2025' , 'Operational Manager''s Name' union all
+select 'RM - Bonus Capped 2025' , 'Start Date' union all
+select 'RM - Bonus Capped 2025' , 'End Date' union all
+select 'RM - Bonus Capped 2025' , 'ID' union all
+select 'RM - Bonus Capped 2025' , 'Gender' union all
+select 'RM - Bonus Capped 2025' , 'Contract' union all
+select 'RM - Bonus Capped 2025' , 'Bonus Scheme' union all
+select 'RM - Bonus Capped 2025' , 'Employee Currency' union all
+select 'RM - Bonus Capped 2025' , 'Perimeter' union all
+select 'RM - Bonus Capped 2025' , 'SPR Reason' union all
+select 'RM - Bonus Capped 2025' , 'Previous Prorata Y-2' union all
+select 'RM - Bonus Capped 2025' , 'Previous Prorata Y-1' union all
+select 'RM - Bonus Capped 2025' , 'Present - Present' union all
+select 'RM - Bonus Capped 2025' , 'Prorata Temporis Y' union all
+select 'RM - Bonus Capped 2025' , 'MRT/N-MRT' union all
+select 'RM - Bonus Capped 2025' , 'Comment Reward Manager' union all
+select 'RM - Bonus Capped 2025' , 'Comment Reward Reviewer' union all
+select 'RM - Bonus Capped 2025' , 'Comment HR / Comp&Ben' union all
+select 'RM - Bonus Capped 2025' , 'Complementary Information' union all
+select 'ExCom - Bonus Capped 2025' , 'Employee''s Name' union all
+select 'ExCom - Bonus Capped 2025' , 'Reward Manager''s Name' union all
+select 'ExCom - Bonus Capped 2025' , 'Operational Manager''s Name' union all
+select 'ExCom - Bonus Capped 2025' , 'Start Date' union all
+select 'ExCom - Bonus Capped 2025' , 'End Date' union all
+select 'ExCom - Bonus Capped 2025' , 'ID' union all
+select 'ExCom - Bonus Capped 2025' , 'Gender' union all
+select 'ExCom - Bonus Capped 2025' , 'Contract' union all
+select 'ExCom - Bonus Capped 2025' , 'Bonus Scheme' union all
+select 'ExCom - Bonus Capped 2025' , 'Employee Currency' union all
+select 'ExCom - Bonus Capped 2025' , 'Perimeter' union all
+select 'ExCom - Bonus Capped 2025' , 'SPR Reason' union all
+select 'ExCom - Bonus Capped 2025' , 'Previous Prorata Y-2' union all
+select 'ExCom - Bonus Capped 2025' , 'Previous Prorata Y-1' union all
+select 'ExCom - Bonus Capped 2025' , 'Present - Present' union all
+select 'ExCom - Bonus Capped 2025' , 'Prorata Temporis Y' union all
+select 'ExCom - Bonus Capped 2025' , 'MRT/N-MRT' union all
+select 'ExCom - Bonus Capped 2025' , 'Comment Reward Manager' union all
+select 'ExCom - Bonus Capped 2025' , 'Comment Reward Reviewer' union all
+select 'ExCom - Bonus Capped 2025' , 'Comment HR / Comp&Ben' union all
+select 'ExCom - Bonus Capped 2025' , 'Complementary Information' union all
 
 select 'HR Dep - Bonus Uncapped 2025' , 'Employee''s Name' union all
 select 'HR Dep - Bonus Uncapped 2025' , 'Reward Manager''s Name' union all
